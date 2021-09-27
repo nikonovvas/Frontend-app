@@ -53,6 +53,12 @@ body {
     font-weight: normal;
     margin: 30px 30px 30px 30px;
 }
+.text_url{
+    color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
 
 
 .text_norm{
