@@ -1,0 +1,85 @@
+body {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0 auto;
+    width: 1180px;
+    max-width: 100%;
+}
+.body0{
+    display: flex;
+    justify-content: space-between;
+    margin: 23px 0px 26px 0px;
+}
+
+.logo{
+    margin: 20px 0px 20px 30px;
+}
+
+.header{
+    background: rgba(84, 133, 160, 1);
+    display: flex;
+    justify-content: space-between;
+}
+
+.Rectangle1{
+    background: rgba(178, 163, 139, 1);
+    height: 800px;
+    width: 280px;
+}
+.Rectangle2{
+    background: rgba(196, 196, 196, 1);
+    height: 800px;
+    width: 580px;
+    margin: 0px 20px 0px 20px;
+}
+.Rectangle3{
+    background: rgba(104, 147, 51, 1);
+    width: 280px;
+    height: 800px;
+}
+
+.Rectangle_f{
+    background: rgba(136, 84, 160, 1);
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_f{
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    margin: 30px 30px 30px 30px;
+}
+.text_url{
+    color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+
+.text_norm{
+    margin: 42px 80px 42px 0px;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+}
+.text_norm1{
+    margin: 22px 40px 0px 35px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.text_bold{
+    font-family: Roboto;
+    margin: 48px 40px 0px 37px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+
+}
